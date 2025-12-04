@@ -11,6 +11,7 @@ I'm a software developer passionate about building robust, scalable applications
 ## 🛠️ Tech Stack
 
 ### Current Specialization
+
 - **Backend:** Java, Spring Boot
 - **Frontend:** Angular
 - **DevOps & CI/CD:** Jenkins, Ansible
@@ -20,7 +21,8 @@ I'm a software developer passionate about building robust, scalable applications
 - **Databases:** MongoDB, PostgreSQL, SQLite, Neo4j
 
 ### Foundation
-- **Languages:** Go, JavaScript
+
+- **Languages:** Go, JavaScript, TS
 - **Frameworks:** Next.js
 
 ## 📂 Projects
@@ -33,5 +35,11 @@ Due to kood/Jõhvi restrictions, most of my projects are kept private. However, 
 - Available for code reviews and technical discussions
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksei-gedz-b1ba5561/)
+
+## Working On
+
+- Polishing completed Java SpringBoot / Angular projects
+- Learning NestJs
+- Diving deeper into Bash Script
 
 ---
