@@ -20,7 +20,7 @@ I'm a software developer passionate about building robust, scalable applications
 - **Security:** HashiCorp Vault
 - **Databases:** MongoDB, PostgreSQL, SQLite, Neo4j
 
-### Foundation
+### 🧱 Foundation
 
 - **Languages:** Go, JavaScript, TS
 - **Frameworks:** Next.js
@@ -36,7 +36,7 @@ Due to kood/Jõhvi restrictions, most of my projects are kept private. However, 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksei-gedz-b1ba5561/)
 
-## Working On
+## 🔍 Working On
 
 - Polishing completed Java SpringBoot / Angular projects
 - Learning NestJs
