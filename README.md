@@ -31,7 +31,6 @@ Due to kood/Jõhvi restrictions, most of my projects are kept private. However, 
 
 - Open to collaboration and interesting projects
 - Available for code reviews and technical discussions
-## 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksei-gedz-b1ba5561/)
 
