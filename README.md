@@ -23,7 +23,7 @@ I'm a software developer passionate about building robust, scalable applications
 ### 🧱 Foundation
 
 - **Languages:** Go, JavaScript, TS
-- **Frameworks:** Next.js
+- **Frameworks:** Next.js, Angular, tasks with own framework
 
 ## 📂 Projects
 
