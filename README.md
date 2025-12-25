@@ -27,6 +27,8 @@ I'm a software developer passionate about building robust, scalable applications
 
 ## 📂 Projects
 
+Most recent, you may explore java/springboot CRUD Rest [API](https://github.com/liogedz/spring-rest-api)
+
 Due to kood/Jõhvi restrictions, most of my projects are kept private. However, I'm happy to open them for evaluation upon request. Feel free to reach out if you'd like to see my work!
 
 ## 📫 Get in Touch
