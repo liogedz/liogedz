@@ -43,6 +43,6 @@ Due to kood/Jõhvi restrictions, most of my projects are kept private. However, 
 
 - Polishing completed Java SpringBoot / Angular projects
 - Learning NestJs
-- Diving deeper into Bash Script
+- Diving deeper into Linux Administration
 
 ---
