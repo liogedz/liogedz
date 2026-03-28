@@ -27,7 +27,7 @@ I'm a software developer passionate about building robust, scalable applications
 
 ## 📂 Projects
 
-Most recent, you may explore Java/Spring Boot Angular (experimental Signal Forms) CRUD Rest [API](https://github.com/liogedz/spring-rest-api) with OAuth2 (Google/GitHub)
+Most recent, you may explore Java/Spring Boot Angular (Signal Forms, Signal based state management) comprehensive CRUD Rest [API](https://github.com/liogedz/spring-rest-api) with OAuth2 (Google/GitHub) and tech challenge from kood/JobFair [Benefit-Calculator](https://github.com/liogedz/benefit_calculator)
 
 Due to kood/Jõhvi restrictions, most of my projects are kept private. However, I'm happy to open them for evaluation upon request. Feel free to reach out if you'd like to see my work!
 
